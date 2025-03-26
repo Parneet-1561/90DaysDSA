@@ -1,7 +1,9 @@
 ## I. Asymptotic Notations:
 
+I'm going to start learning this soon.
 The notations we use to describe the asymptotic (approximate) running time of an algorithm are defined in terms of functions whose domains are the set of natural numbers 
 N = {0, 1, 2 ... }.  The asymptotic notations consist of the following useful notations.
+
 
 
 **Big Oh (O):**
